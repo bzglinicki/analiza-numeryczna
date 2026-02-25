@@ -1,2 +1,5 @@
-# analiza-numeryczna
-Source code for the numerical analysis course I teach at the Faculty of Physics at the University of Warsaw (in Polish).
+# Programowanie i metody numeryczne
+
+> [!NOTE]
+> Strona przedmiotu:\
+> [https://www.fuw.edu.pl/~bzglinicki/teaching/num/](https://www.fuw.edu.pl/~bzglinicki/teaching/num/)
